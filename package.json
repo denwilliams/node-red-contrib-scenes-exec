@@ -1,0 +1,24 @@
+{
+  "name": "node-red-contrib-scenes-exec",
+  "version": "0.0.1",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-red-scenes": "bin/main.js"
+  }
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-red": "^0.13.4",
+    "node-red-contrib-scenes": "^0.1.1",
+    "when": "^3.7.7"
+  },
+  "author": "Den Williams",
+  "license": "MIT",
+  "description": "Executes Node RED with scenes",
+  "devDependencies": {},
+  "keywords": [
+    "node-red"
+  ]
+}
