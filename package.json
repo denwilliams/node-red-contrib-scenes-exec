@@ -7,7 +7,7 @@
   },
   "bin": {
     "node-red-scenes": "bin/main.js"
-  }
+  },
   "dependencies": {
     "express": "^4.13.4",
     "node-red": "^0.13.4",
