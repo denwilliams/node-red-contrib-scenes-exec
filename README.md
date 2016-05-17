@@ -10,3 +10,5 @@ node-red-scenes
 ```
 
 Will default to port `1880`.
+
+Command line params TBD.
