@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "declaration": true,
+    "listFiles": false,
+    "outDir": "./lib"
+  },
+  "filesGlob": [
+    "typings/main.d.ts",
+    "src/main.ts"
+  ],
+  "files": [
+    "typings/main.d.ts",
+    "src/main.ts"
+  ],
+  "atom": {
+    "rewriteTsconfig": true
+  }
+}
