@@ -2,6 +2,9 @@
 
 Shell script for https://github.com/denwilliams/node-red-contrib-scenes
 
+> NOTE: currently not working when running globally as documented below.
+> Only works when run locally.
+
 Usage:
 
 ```
