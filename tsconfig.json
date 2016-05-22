@@ -14,11 +14,11 @@
   },
   "filesGlob": [
     "typings/main.d.ts",
-    "src/main.ts"
+    "src/index.ts"
   ],
   "files": [
     "typings/main.d.ts",
-    "src/main.ts"
+    "src/index.ts"
   ],
   "atom": {
     "rewriteTsconfig": true
